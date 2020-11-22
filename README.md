@@ -12,7 +12,7 @@ This week we are utilizing SQLite Databases and querying them utilizing the Jupy
 ## Results
 
 Because we are analyzing temperatures for Hawaii, temperate data for the months and June and December do not vary much.
-(/resources/jun_summary.png)
+[June Data](/resources/jun_summary.png)
 [December Data](/resources/dec_summary.png)
 
 
